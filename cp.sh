@@ -1,0 +1,1 @@
+cp -r  www/fonts www/css ~/dev/multishop/packages/partus:pico/pico       
